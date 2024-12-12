@@ -1,9 +1,1 @@
-
-             _      
-            (_)     
- __   _____  ___  __
- \ \ / / _ \| \ \/ /
-  \ V / (_) | |>  < 
-   \_/ \___/|_/_/\_\
-                    
-                    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=voixiy&theme=dark)
