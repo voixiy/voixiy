@@ -1,1 +1,1 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=voixiy&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=voixiy&show_icons=true&theme=radical)
